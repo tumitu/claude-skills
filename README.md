@@ -1,7 +1,5 @@
 # Claude 自製 Skills
 
-這些是為「文字探勘與行銷應用」課程製作的 Claude Skills。
-
 ## 📦 包含的 Skills
 
 | Skill | 說明 | 觸發關鍵字 |
