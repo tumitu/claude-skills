@@ -13,7 +13,7 @@
 點以下連結，右上角點「Raw」，
 對頁面按右鍵 → 另存新檔 → 存成 SKILL.md：
 
-https://github.com/tumitu/text-mining-course/blob/main/resume-health-check/SKILL.md
+https://github.com/tumitu/claude-skills/blob/main/resume-health-check/SKILL.md
 
 **Step 2：上傳到 Claude.ai**
 
